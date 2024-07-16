@@ -1,0 +1,12 @@
+...........Game Logic:..........
+1. Start by generating a random number (e.g., between 1 and 100).
+    Prompt the user to guess the number.
+    Compare the user’s guess with the actual number.
+    Provide feedback (e.g., “Too high!” or “Too low!”) until the user guesses correctly.
+    Limit the number of attempts (e.g., 5 or 10).
+2. User Interaction:
+    Use input() to get the user’s guess.
+    Display messages to guide the user (e.g., "Guess a number: ").
+3. Looping and Conditions:
+    Use a while loop to keep the game running until the user wins or runs out of attempts.
+    Use if statements to check whether the guess is correct or needs adjustment.
